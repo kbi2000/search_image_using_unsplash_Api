@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/search_image_using_unsplash_Api/static/css/main.7d598bd9.css",
+    "main.js": "/search_image_using_unsplash_Api/static/js/main.cb22b03d.js",
+    "index.html": "/search_image_using_unsplash_Api/index.html",
+    "main.7d598bd9.css.map": "/search_image_using_unsplash_Api/static/css/main.7d598bd9.css.map",
+    "main.cb22b03d.js.map": "/search_image_using_unsplash_Api/static/js/main.cb22b03d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d598bd9.css",
+    "static/js/main.cb22b03d.js"
+  ]
+}
